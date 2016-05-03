@@ -182,7 +182,7 @@ Please check out common DSC Resources [contributing guidelines](https://github.c
 * **Database**: (Key) The SQL Database
 * **Name**: (Required) The name of the SQL login for the owner
 * **SQLServer**: The SQL Server for the database
-* **SQLInstance**: The SQL instance for the database
+* **SQLInstanceName**: The SQL instance for the database
 
 ###xSQLDatabaseRecoveryModel
 * **DatabaseName**: (key) The SQL database name
