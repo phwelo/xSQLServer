@@ -199,8 +199,8 @@ Please check out common DSC Resources [contributing guidelines](https://github.c
 ###xSQLServerMemory
 * **Ensure**: (key) An enumerated value that describes if Min and Max memory is configured
 * **DyamicAlloc**: (key) Flag to indicate if Memory is dynamically configured
-* **MinMemory**: Minimum memory value to set SQL Server memory to
-* **MaxMemory**: Maximum memory value to set SQL Server memory to
+* **MinMemory**: Minimum memory value to set SQL Server memory to in MB
+* **MaxMemory**: Maximum memory value to set SQL Server memory to in MB
 * **SQLServer**: The SQL Server for the database
 * **SQLInstance**: The SQL instance for the database
 
